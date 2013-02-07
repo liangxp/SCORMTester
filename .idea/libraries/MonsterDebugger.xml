@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MonsterDebugger" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/MonsterDebugger.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/SCORMUtils.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Utils.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
