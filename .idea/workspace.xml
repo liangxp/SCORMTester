@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035e5ad4-850f-4142-ba80-6915810e1c30" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/SCORMUtils.swc" afterPath="$PROJECT_DIR$/libs/SCORMUtils.swc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elearning/Elearning.as" afterPath="$PROJECT_DIR$/src/elearning/Elearning.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/offlineGame/OfflineGame.as" afterPath="$PROJECT_DIR$/src/offlineGame/OfflineGame.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/offlineGame/WrapperSample.as" afterPath="$PROJECT_DIR$/src/offlineGame/WrapperSample.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/Utils.swc" afterPath="$PROJECT_DIR$/libs/Utils.swc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SCORMTester.iml" afterPath="$PROJECT_DIR$/SCORMTester.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SCORMTester.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360353276944" ignored="false" />
-    <file path="/fragment.js2" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360253349614" ignored="false" />
+    <file path="/Dummy.txt" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363533317779" ignored="false" />
+    <file path="/fragment.js2" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362519849013" ignored="false" />
     <file path="/SocketElearning.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360201185545" ignored="false" />
     <file path="/Elearning.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360354194832" ignored="false" />
     <file path="$PROJECT_DIR$/../filiperp_project_skeleton/GamePlataform/src/controller/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360210151678" ignored="false" />
@@ -30,7 +31,7 @@
     <file path="/SCORMChannelKeys.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360240631453" ignored="false" />
     <file path="/Wrapper.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360241755234" ignored="false" />
     <file path="/WrapperSample.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360240700163" ignored="false" />
-    <file path="/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360210151678" ignored="false" />
+    <file path="/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363535154989" ignored="false" />
     <file path="$PROJECT_DIR$/../filiperp_project_skeleton/output/lms/scoGame/main.swf" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360210300710" ignored="false" />
     <file path="$PROJECT_DIR$/../filiperp_project_skeleton/libs/SCORMUtils.swc!/catalog.xml" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360242539401" ignored="false" />
     <file path="/OfflineGame.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360353650752" ignored="false" />
@@ -40,6 +41,41 @@
     <file path="$PROJECT_DIR$/../filiperp_project_skeleton/Utils/src/Utils.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360244552332" ignored="false" />
     <file path="$PROJECT_DIR$/../../projetos_eclipse/POC_AICC/AICCApp/src/controller/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360253151228" ignored="false" />
     <file path="$PROJECT_DIR$/../filiperp_project_skeleton/SCORMUtils/src/com/fraktalo/SCORM/SCORMManager.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360354881785" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/Question.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360712804517" ignored="false" />
+    <file path="/Question.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360712624745" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/BtnPopup.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360708523739" ignored="false" />
+    <file path="/BtnPopup.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360708518918" ignored="false" />
+    <file path="/PopUpController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720540564" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/controller/PopUpController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720606544" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/bin/scoGame/main.swf" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363554393545" ignored="false" />
+    <file path="$PROJECT_DIR$/../filiperp_project_skeleton/Utils/src/managers/ButtonManager.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360712304483" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/Alert.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360712832360" ignored="false" />
+    <file path="/Alert.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360712765783" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/controller/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363536160693" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/ListaCurso.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720761742" ignored="false" />
+    <file path="/ListaCurso.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720410536" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/Main.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363533462380" ignored="false" />
+    <file path="/Main.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360715006664" ignored="false" />
+    <file path="/a.dummy" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360715022646" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/ItemLista.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720191764" ignored="false" />
+    <file path="/ItemLista.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1360720184996" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/controller/StateController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363538093555" ignored="false" />
+    <file path="/StateController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363538086864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../projetos_eclipse/TEL01/src/controller/StateController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362512392146" ignored="false" />
+    <file path="/HUD.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362512819584" ignored="false" />
+    <file path="$PROJECT_DIR$/../../projetos_eclipse/TEL01/src/view/HUD.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362512823126" ignored="false" />
+    <file path="$PROJECT_DIR$/../../projetos_eclipse/TEL01/src/controller/GameController.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362512909392" ignored="false" />
+    <file path="Z:/FRACTAL/Paqueta_mod_intro_e_mod1/modulo1/bin/scoGame/data/_gameData.txt" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362518892428" ignored="false" />
+    <file path="/_gameData.txt" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362517497174" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/bin/scoGame/data/_gameData.txt" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362519022493" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/src/view/Hud.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362519474643" ignored="false" />
+    <file path="/Hud.as" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362519424364" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/bin/scoGame/index.html" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362520509091" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/bin/scoGame/data/assets/hud.swf" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1362520956733" ignored="false" />
+    <file path="/main.html" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363537612194" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/bin/scoGame/main.html" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363538249177" ignored="false" />
+    <file path="$PROJECT_DIR$/../SCORMSkeleton/application/libs/SWC.swc!/library.swf" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363554393545" ignored="false" />
+    <file path="$PROJECT_DIR$/../../projetos_php/GM5_Paqueta_Moodle/html/test.php" changelist="035e5ad4-850f-4142-ba80-6915810e1c30" time="1363557230643" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,29 +138,25 @@
         <entry file="file://$PROJECT_DIR$/src/offlineGame/OfflineGame.as">
           <provider selected="true" editor-type-id="text-editor">
             <state line="87" column="67" selection-start="2979" selection-end="2979" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#175#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WrapperSample.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offlineGame/WrapperSample.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="24" selection-start="2507" selection-end="2507" vertical-scroll-proportion="0.26605505">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Elearning.as" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WrapperSample.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offlineGame/WrapperSample.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="24" selection-start="2507" selection-end="2507" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Elearning.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="59" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#173#220#0" expanded="true" />
-              </folding>
+            <state line="30" column="12" selection-start="1826" selection-end="1895" vertical-scroll-proportion="0.22486289">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -159,8 +191,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -272,7 +304,7 @@
     <property name="options.lastSelected" value="Errors" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="E:/FlexSDK/flashplayer_11_sa_debug_32bit.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -280,8 +312,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -603,8 +635,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -612,27 +644,31 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47350994" sideWeight="0.4850587" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47350994" sideWeight="0.4850587" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47350994" sideWeight="0.511206" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5672823" sideWeight="0.511206" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32671082" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5264901" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14491653" sideWeight="0.43271768" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Profile" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32671082" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Colour Chooser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -699,18 +735,14 @@
     <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="2706" selection-end="2706" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#173#220#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offlineGame/OfflineGame.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="67" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#175#222#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -724,18 +756,14 @@
     <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="2706" selection-end="2706" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#173#220#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offlineGame/OfflineGame.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="67" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#175#222#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -749,18 +777,14 @@
     <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="2706" selection-end="2706" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#173#220#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offlineGame/OfflineGame.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="31" selection-start="1015" selection-end="1446" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#175#222#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -774,9 +798,7 @@
     <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="44" selection-start="2849" selection-end="2849" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#173#220#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,24 +820,20 @@
     <entry file="file://$PROJECT_DIR$/src/offlineGame/OfflineGame.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="87" column="67" selection-start="2979" selection-end="2979" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#175#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="59" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#173#220#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offlineGame/WrapperSample.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="24" selection-start="2507" selection-end="2507" vertical-scroll-proportion="0.26605505">
+        <state line="45" column="24" selection-start="2507" selection-end="2507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elearning/Elearning.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="12" selection-start="1826" selection-end="1895" vertical-scroll-proportion="0.22486289">
           <folding />
         </state>
       </provider>
